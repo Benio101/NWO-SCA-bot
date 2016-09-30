@@ -1,4 +1,4 @@
-# NWO-SCA-bot
+# NWO::SCA bot
 ## Neverwinter Online :: Sword Coast Adventures bot
 jQuery Neverwinter [userscript](https://greasyfork.org/en) — bot that used to automatically solve Sword Coast Adventures at Neverwinter [gateway](http://gateway.playneverwinter.com).
 
